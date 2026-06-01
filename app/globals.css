@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg: #fbfbfa;
+  --color-surface: #eaeaea;
+  --color-accent: #9ca0a8;
+  --color-ink: #3a3d45;
+  /* ScrollCanvas + HeroScrollText read these. Light palette: pale canvas
+     letterboxing, dark ink text. */
+  --bg-color: #fbfbfa;
+  --fg-color: #3a3d45;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Section anchors clear the fixed header when jumped to. */
+[id] {
+  scroll-margin-top: 96px;
+}
+
+::selection {
+  background: #3a3d45;
+  color: #fbfbfa;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

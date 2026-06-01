@@ -1,0 +1,22 @@
+{
+  "bucket": "site-assets",
+  "projectId": "eab03b22-136f-446b-a020-ff5419258732",
+  "ref": "",
+  "images": {
+    "section-cta": "https://images.unsplash.com/photo-1484557052118-f32bd25b45b5?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw3fHxtb2Rlcm4lMjBkYXRhJTIwY2VudGVyJTIwc2VydmVyJTIwcmFja3N8ZW58MXwwfHx8MTc4MDMwOTY3MHww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-load-forecasting": "https://images.unsplash.com/photo-1625296276703-3fbc924f07b5?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw1fHxwb3dlciUyMGdyaWQlMjBkYXRhJTIwYW5hbHl0aWNzJTIwc2NyZWVufGVufDF8MHx8fDE3ODAzMDk2NzB8MA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-grid-optimization": "https://images.unsplash.com/photo-1509390673020-a5b2450e33f1?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHwzfHxlbGVjdHJpY2FsJTIwc3Vic3RhdGlvbiUyMGluZnJhc3RydWN0dXJlfGVufDF8MHx8fDE3ODAzMDk2NzB8MA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "og-image": "https://images.unsplash.com/photo-1509390144018-eeaf65052242?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw1fHxlbGVjdHJpY2FsJTIwcG93ZXIlMjBncmlkJTIwbmV0d29ya3xlbnwxfDB8fHwxNzgwMzA5NjcxfDA&ixlib=rb-4.1.0&w=1200&h=630&fit=crop&q=80&auto=format",
+    "service-outage-intelligence": "https://images.unsplash.com/photo-1543489816-c87b0f5f7dd4?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw0fHxoaWdoJTIwdm9sdGFnZSUyMHRyYW5zbWlzc2lvbiUyMGxpbmVzfGVufDF8MHx8fDE3ODAzMDk2NzF8MA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-asset-health": "https://images.unsplash.com/photo-1705051278299-7e64ba21437a?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw0fHxwb3dlciUyMHRyYW5zZm9ybWVyJTIwaW5kdXN0cmlhbCUyMGVxdWlwbWVudHxlbnwxfDB8fHwxNzgwMzA5NjcxfDA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-carbon-compliance": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw0fHx3aW5kJTIwdHVyYmluZXMlMjByZW5ld2FibGUlMjBlbmVyZ3l8ZW58MXwwfHx8MTc4MDMwOTY3MXww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "section-platform": "https://images.unsplash.com/photo-1764195287345-2086f504cb0b?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw4fHxjb250cm9sJTIwcm9vbSUyMG1vbml0b3JpbmclMjBzY3JlZW5zfGVufDF8MHx8fDE3ODAzMDk2ODN8MA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "scene-1-start": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/eab03b22-136f-446b-a020-ff5419258732/images/scene-1-start.png",
+    "scene-1-end": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/eab03b22-136f-446b-a020-ff5419258732/images/scene-1-end.png"
+  },
+  "videos": {
+    "scene-1": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/eab03b22-136f-446b-a020-ff5419258732/videos/scene-1.mp4"
+  },
+  "frames": {},
+  "updatedAt": "2026-06-01T10:30:04.832Z"
+}

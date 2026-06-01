@@ -1,0 +1,10 @@
+[
+  { "slot": "section-platform", "keyword": "control room monitoring screens", "orientation": "landscape" },
+  { "slot": "section-cta", "keyword": "modern data center server racks", "orientation": "landscape" },
+  { "slot": "og-image", "keyword": "electrical power grid network", "orientation": "landscape", "w": 1200, "h": 630 },
+  { "slot": "service-load-forecasting", "keyword": "power grid data analytics screen", "orientation": "landscape" },
+  { "slot": "service-grid-optimization", "keyword": "electrical substation infrastructure", "orientation": "landscape" },
+  { "slot": "service-outage-intelligence", "keyword": "high voltage transmission lines", "orientation": "landscape" },
+  { "slot": "service-asset-health", "keyword": "power transformer industrial equipment", "orientation": "landscape" },
+  { "slot": "service-carbon-compliance", "keyword": "wind turbines renewable energy", "orientation": "landscape" }
+]
